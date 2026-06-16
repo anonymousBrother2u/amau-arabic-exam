@@ -1,5 +1,19 @@
 # AMAU Arabic Exam
 
+## بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+**Bismillāh ir-Raḥmān ir-Raḥīm**
+**In the Name of Allah, the Most Merciful, the Especially Merciful**
+
+| Arabic Part  | Transliteration | Meaning                                  |
+| ------------ | --------------- | ---------------------------------------- |
+| بِسْمِ       | Bismi           | In the name of                           |
+| اللهِ        | Allāh           | Allah                                    |
+| الرَّحْمَٰنِ | Ar-Raḥmān       | The Most Merciful, The Entirely Merciful |
+| الرَّحِيمِ   | Ar-Raḥīm        | The Especially Merciful                  |
+
+---
+
 Based on the vocabulary decks and documents provided by **AMAU Academy**
 **Al Madrasah Al Umariyyah — Arabic Course**
 
