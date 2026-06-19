@@ -137,6 +137,6 @@ Allah (SWT) is the One Who is:
 
 ## Acknowledgement
 
-This project is based on the vocabulary decks and learning materials from **AMAU Academy — Arabic Course**.
+This project is based on the vocabulary decks and learning materials from **Al Madrasatu Al Umarriyyah (AMAU Academy) — Arabic With AMAU Course**.
 
 May Allah (SWT) reward the teachers, students, and everyone involved in spreading beneficial knowledge.
